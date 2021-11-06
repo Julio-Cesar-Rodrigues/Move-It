@@ -1,5 +1,4 @@
 # Move-It
-## [Read this page in English](https://github.com/ojeffpinheiro01/move-it)
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/60162736/108780878-d022c700-7547-11eb-9288-63242915c9ad.png"></h1>
   
@@ -24,9 +23,6 @@
 
 [Como contribuir](#gear-como-contribuir)
 
-[Contato](#mailbox-contato)
-
-[Siga-me ](#siga-me)
 
 <br>
  
